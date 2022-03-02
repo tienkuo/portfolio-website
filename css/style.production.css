@@ -86,6 +86,10 @@ a:active {
   color: purple;
 }
 
+.highlightme {
+  background-color: #e0e0e0;
+}
+
 button {
   /* overwrites browser defaults and resets the border */
   border: none;
